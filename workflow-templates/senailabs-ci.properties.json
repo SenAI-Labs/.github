@@ -1,6 +1,6 @@
 {
     "name": "senailabs-ci Workflow",
-    "description": "senailabs-ci CI workflow template.",
+    "description": "SenAI-Labs CI workflow template.",
     "iconName": "icons/SenAI-Labs.png",
     "categories": [
         "Go"
