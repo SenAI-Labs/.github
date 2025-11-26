@@ -1,0 +1,13 @@
+{
+    "name": "senailabs-ci Workflow",
+    "description": "senailabs-ci CI workflow template.",
+    "iconName": "SenAI-Labs.png",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
